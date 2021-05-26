@@ -1,6 +1,9 @@
 ---
 typora-copy-images-to: ./screenshots
 ---
+forever 启动 forever start -c './node_modules/.bin/babel-node' -a fabu.js 
+
+
 
 ### 爱发布
 
